@@ -1,8 +1,3 @@
-Claro! Aqui está um `README.md` completo e bonito para o seu projeto, com estilo profissional, descrição funcional e instruções claras:
-
----
-
-````markdown
 # 🌿 Studio Ghibli Filmes
 
 Um buscador de filmes encantador inspirado nas obras do Studio Ghibli, criado com **React** e **CSS puro**, com um visual mágico e leve.
@@ -71,20 +66,14 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
+└── index.html
+└── README.md
 ```
-
----
-
-## 🖼️ Exemplo da interface
-
-![Exemplo da interface](./src/assets/images/screenshot.png)
-
----
 
 ## ✍️ Autor
 
-**Seu Nome**
-💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+**Daniel Monteiro**
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-monteiro-7ba80820b/)
 💻 [Portfólio](https://seusite.dev)
 
 ---
